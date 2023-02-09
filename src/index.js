@@ -4,11 +4,13 @@ import './index.css';
 // import App from './App';
 import Slider from '../src/components/containers/slider';
 import reportWebVitals from './reportWebVitals';
+import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Slider />
+    <App></App>
   </React.StrictMode>
 );
 

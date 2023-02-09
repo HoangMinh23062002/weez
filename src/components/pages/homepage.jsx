@@ -4,6 +4,9 @@ export default function homepage() {
         <section className="content">
           <div>
             <p>Each page of web</p>
+            <p>
+            
+            </p>
           </div>
         </section>
     )
