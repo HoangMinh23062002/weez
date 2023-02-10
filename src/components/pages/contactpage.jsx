@@ -1,9 +1,13 @@
 import React from "react";
+import Contactbannerleft from "../containers/contactbannerleft";
+import Contactbannerright from "../containers/contactbannerright";
 
-export default function contact(){
+
+export default function Contact(){
     return(
-        <section className="row Contactpage__Container">
-           
+        <section className="Contactpage__Container">
+            <Contactbannerleft></Contactbannerleft>
+            <Contactbannerright></Contactbannerright>
         </section>
     )
 }

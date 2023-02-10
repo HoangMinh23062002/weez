@@ -5,12 +5,14 @@ import './index.css';
 import Slider from '../src/components/containers/slider';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
+import Contact from './components/pages/contactpage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Slider />
-    <App></App>
+    {/* <App></App> */}
+    <Contact></Contact>
   </React.StrictMode>
 );
 

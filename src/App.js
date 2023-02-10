@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { Minh , Minh1} from './assets/images';
+
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-        <img src={Minh1} />
+        
       </header>
     </div>
   );
