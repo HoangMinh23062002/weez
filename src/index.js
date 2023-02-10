@@ -6,6 +6,7 @@ import Slider from '../src/components/containers/slider';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
 import Contact from './components/pages/contactpage';
+import Blogspage from './components/pages/blogspage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +14,7 @@ root.render(
     <Slider />
     {/* <App></App> */}
     <Contact></Contact>
+    <Blogspage></Blogspage>
   </React.StrictMode>
 );
 
