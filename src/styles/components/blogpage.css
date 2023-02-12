@@ -15,6 +15,17 @@ img.banner__image {
 p.banner__top-para {
     margin: 10px 0;
 }
+ul.list__cate {
+    margin: 20px 21px;
+}
+li {
+    margin: 10px;
+}
+h2.title__post {
+    margin: 10px 0;
+    text-decoration: underline rgb(246, 44, 182) 40%;
+}
+
 .blogpage__banner-bottom{
     display: flex;
     margin: 10px 0;
@@ -45,6 +56,10 @@ img.blogpage__banner-child-img {
 }
 .blogpage__banner-post-content {
     display: flex;
+    margin: 25px 0;
+}
+h2.title__cate {
+    text-decoration: underline rgb(246, 44, 182) 40%;
 }
 img.post__content-img {
     width: 120px;
