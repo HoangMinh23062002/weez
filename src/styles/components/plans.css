@@ -1,0 +1,78 @@
+.homePage-plans-detail {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+.homePage-plans {
+  background-color: #f3f2f8;
+  height: 563px;
+}
+.homePage-plans-nn-ame {
+  background-color: #fecb21;
+  border: none;
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;;
+
+}
+.title{
+    padding: 40px;
+}
+.homePage-plans-nn{
+    text-align: center;
+
+}
+.homePage-plans-detail-regular,
+.homePage-plans-detail-premium,
+.homePage-plans-detail-luxury{
+    background-color: #fff;
+    margin: 0 20px;
+    margin-top: 49px;
+    border-radius: 15px;
+  font-family: "Poppins", sans-serif;
+
+}
+.title h3{
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+
+
+}
+.title h2{
+    font-size: 40px;
+}
+.sub-title{
+    font-size: 15px;
+}
+.choosing-plan{
+    background-color: #fff;
+    border: solid 3px #fecb21;
+    padding: 10px 65px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.choosing-plan-spe{
+    background-color: #fecb21;
+    border: solid 3px #fecb21;
+    padding: 10px 65px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.title p{
+    color:#696969;
+    font-size: 12px;
+    
+}
+.list-choosing{
+    color: #696969;
+    text-align: left;
+    font-size: 12px;
+}
+.list-choosing li{
+    line-height: 30px;
+}

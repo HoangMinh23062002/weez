@@ -1,10 +1,10 @@
 import React from 'react';
+import slider from'../containers/homepage/slider'
 export default function homepage() {
     return (
-        <section className="content">
           <div>
-            <p>Each page of web</p>
+          <p>hdfehfjehfjeh</p>
+          <slider/>
           </div>
-        </section>
     )
 }

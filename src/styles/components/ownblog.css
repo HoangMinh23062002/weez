@@ -1,0 +1,92 @@
+.homePage-blog {
+  display: flex;
+  justify-content: center;
+  background-color: #f3f2f8;
+  margin-top: 160px;
+  height: 490px;
+}
+.homePage-blog-ourBlog-content {
+  display: flex;
+}
+.homePage-blog-ourBlog h3,
+.homePage-blog-awards h3 {
+  font-family: "Poppins", sans-serif;
+  color: #0a093d;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+.fa-blog-icon {
+  color: #217bf4;
+  margin-right: 10px;
+}
+.highligh-title {
+  color: #217bf4;
+  font-weight: 500;
+}
+.homePage-blog-ourBlog-content h5 {
+  font-size: 16px;
+  color: #5d5b70;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 2%;
+}
+
+.description-word {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  line-height: 26px;
+  color: #8c8c8c;
+}
+.blog-border {
+  padding: 45px;
+  background-color: #ffffff;
+  border-radius: 13px;
+  height: 300px;
+}
+.homePage-blog-ourBlog-join {
+  color: #217bf4;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: 40px;
+  
+}
+.narrow-icon {
+  width: 10px;
+  margin-left: 62px;
+}
+.homPage-blog-achievement-discover {
+  background-color: #217bf4;
+  color: #fff;
+  border: none !important;
+  padding: 20px 25px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 0px, 10px rgba(27, 101, 197, 0.26);
+  
+}
+.narrow-dis {
+  margin-left: 20px;
+}
+.homePage-blog-ourBlog-aw{
+    color: #4A4A56;
+    font-size: 16px;
+  margin-top: 40px;
+
+    line-height: 16px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+}
+.homePage-blog-awards{
+    margin-left: 23px;
+    margin-right: 93px;
+}
+.homPage-blog-achievement h5{
+    color:#217bf4 ;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+}
