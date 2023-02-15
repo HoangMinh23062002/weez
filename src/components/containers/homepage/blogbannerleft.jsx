@@ -1,7 +1,7 @@
 import React from "react";
-import { pl } from "../../assets/images";
-import { car } from "../../assets/images";
-import { blog } from "../../assets/images";
+import { pl } from "../../../assets/images";
+import { car } from "../../../assets/images";
+import { blog } from "../../../assets/images";
 
 export default function Blogbannerleft(){
     return(

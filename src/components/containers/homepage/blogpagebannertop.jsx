@@ -1,5 +1,5 @@
 import React from "react";
-import { banner } from "../../assets/images";
+import { banner } from "../../../assets/images";
 
 export default function Blogpagebannertop() {
     return (

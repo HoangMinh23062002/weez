@@ -1,5 +1,5 @@
 import React from "react";
-import { Minh } from "../../assets/images";
+import { Minh } from "../../../assets/images";
 
 export default function Contactbannerleft(){
     return(
