@@ -11,13 +11,5 @@ import image288 from './images/image288.png';
 import image289 from './images/image289.png';
 import mobile from './images/mobile.png';
 
-
-
-
-
-
-
-
-
 export {parkingImage,mobile,image289,image288,imax,imgr,Image,speedometer,logoorca,people,Trophy,image301 }
 

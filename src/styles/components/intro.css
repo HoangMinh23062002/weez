@@ -4,7 +4,8 @@
   display: flex;
   justify-content: center;
   height: 436px;
-  /* background-color: red; */
+  padding-top: 60px;
+  background-color: #F3F2F8;
 }
 .intro-title {
   color: #217bf4;

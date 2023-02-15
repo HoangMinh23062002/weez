@@ -2,7 +2,8 @@
   display: flex;
   justify-content: center;
   background-color: #f3f2f8;
-  margin-top: 160px;
+  /* margin-top: 160px; */
+  padding-top: 171px;
   height: 490px;
 }
 .homePage-blog-ourBlog-content {
@@ -43,6 +44,7 @@
   padding: 45px;
   background-color: #ffffff;
   border-radius: 13px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   height: 300px;
 }
 .homePage-blog-ourBlog-join {

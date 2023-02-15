@@ -2,7 +2,7 @@ import React from "react";
 import '../../../styles/components/__index.css'
 import { parkingImage } from "../../../assets/index";
 
-export default function slider() {
+export default function Slider() {
   return (
     <div className="homePage-ezParking">
       <div className="homePage-banner">

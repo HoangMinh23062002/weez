@@ -2,7 +2,7 @@ import React from "react";
 import "../../../styles/components/__index.css";
 import { image301, mobile, image288 } from "../../../assets/index";
 
-export default function appdl() {
+export default function Appdl() {
   return (
     <div className="homePage-dl">
       <div className="homePage-dl-imageba">

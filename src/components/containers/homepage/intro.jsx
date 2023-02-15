@@ -2,7 +2,7 @@ import React from "react";
 import "../../../styles/components/__index.css";
 import { imax, imgr, Image } from "../../../assets/index";
 
-export default function slider() {
+export default function Intro() {
   return (
     <div className="homePage-intro">
       <div className="homePage-intro-why">

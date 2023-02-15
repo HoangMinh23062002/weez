@@ -1,21 +1,19 @@
-
 .homePage-banner{
+    padding-top: 100px;
     display: flex;
     justify-content: space-around;
     background: linear-gradient(
         to top left,
         #B2D0F3 0%,
         #FFFFFF 100%
-
     );
-    
 }
 .homePage-banner-slogan-show-first h1{
     font-size: 56px;
     font-weight: bold;
 }
 .homePage-banner-slogan{
-    height: 656px;
+    height: 556px;
 }
 .homePage-banner-slogan-show-second p{
    font-size: 18px;
@@ -31,4 +29,8 @@ color:#FF5286 ;
     color: #217BF4;
     font-size: 14px;
     font-weight: medium;
+}
+.page-intro{
+    background-color: #F3F2F8;
+    display: contents;
 }
