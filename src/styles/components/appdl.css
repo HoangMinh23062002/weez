@@ -1,0 +1,42 @@
+.homePage-dl-imageba img {
+  width: 100%;
+  position: relative;
+  z-index: -21;
+}
+.homePage-dl {
+}
+.homePage-dl-imageba {
+  position: relative;
+}
+.title-dl {
+  /* position: absolute; */
+  z-index: 111;
+}
+.dl-oparate {
+  display: flex;
+}
+.get-app {
+  color: #217bf4;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+}
+.get-slogan {
+  color: #217bf4;
+  font-size: 36px;
+  font-weight: bold !important;
+}
+.get-des {
+  color: white !important;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  line-height: 26px;
+}
+.image-app img {
+  width: 600px;
+}
+.get-content {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -30%;
+}

@@ -1,0 +1,51 @@
+.homePage-intro {
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: 436px;
+  padding-top: 60px;
+  background-color: #F3F2F8;
+}
+.intro-title {
+  color: #217bf4;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 500;
+}
+.intro-why {
+  color: #0a093d;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+}
+.intro-catogary {
+  margin-left: -45px;
+}
+.intro-describe {
+  color: #656464;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+.intro-catogary ul li {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  list-style-type: none;
+  padding: 12 0 12 0;
+}
+.fa-circle {
+  color: #217bf4;
+  font-size: 7px;
+  border-radius: 1px double black;
+  padding: 5px;
+  background-color: #dee6f8;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  position: relative;
+}
+.homePage-intro-why-word-specific {
+  margin-right: 40px;
+}
