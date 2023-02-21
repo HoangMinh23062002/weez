@@ -1,0 +1,33 @@
+section.Contactpage__Container {
+  background-image: url(https://www.ericawakerlywallpaper.com/wp-content/uploads/2018/05/Windmill-white-blue-1.jpg);
+  opacity: 1;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+  width: 1540px;
+  height: 948px;
+  display: flex;
+  padding: 22px 0;
+  background-color: ;
+}
+h4.contact__banner-title {
+  text-align: center;
+}
+input,
+textarea {
+  width: 96%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+textarea {
+  height: 120px;
+}
+.contact__text {
+  margin-bottom: 10px;
+}

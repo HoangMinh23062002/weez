@@ -18,7 +18,9 @@ import Frame21 from './images/Frame21.png';
 import logo from './images/logo.png';
 import logofooter from './images/logofooter.png';
 import Rectangle45 from './images/Rectangle45.png';
+import bannerd from './images/bannerd.png';
 
 
-export {parkingImage,mobile,image289,image288,imax,imgr,Image,speedometer,logoorca,people,Trophy,image301,backwel,Ellipse31a, Ellipse31b, Ellipse31, Frame21,logo,logofooter,Rectangle45 }
+
+export {parkingImage,mobile,bannerd,image289,image288,imax,imgr,Image,speedometer,logoorca,people,Trophy,image301,backwel,Ellipse31a, Ellipse31b, Ellipse31, Frame21,logo,logofooter,Rectangle45 }
 

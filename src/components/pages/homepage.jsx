@@ -8,7 +8,7 @@ import Appdl from "../containers/homepage/Appdl";
 import Footer from "./Footer";
 import Header from "./Header";
 
-export default function homepage() {
+export default function Homepage() {
   return (
     <div className="page-intro">
       <Header/>
@@ -21,3 +21,5 @@ export default function homepage() {
     </div>
   );
 }
+
+

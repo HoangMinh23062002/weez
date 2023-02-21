@@ -1,17 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
+import App from './App';
 import Homepage from '../src/components/pages/homepage.jsx';
 import AboutUsPage from './components/pages/AboutUsPage';
 import reportWebVitals from './reportWebVitals';
+// import App from './App';
+// import Contact from './components/pages/contactpage';
+// import Blogspage from './components/pages/blogspage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <Homepage/> */}
 
-     <AboutUsPage/>
+     {/* <AboutUsPage/> */}
+    <App></App>
+    {/* <Contact></Contact> */}
+    {/* <Blogspage></Blogspage> */}
     
   </React.StrictMode>
 );

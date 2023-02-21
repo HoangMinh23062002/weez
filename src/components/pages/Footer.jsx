@@ -2,12 +2,12 @@ import React from "react";
 import "../../styles/components/__index.css";
 import { logofooter } from "../../assets/index";
 
-import {
-  AiFillLinkedin,
-  AiFillTwitterCircle,
-  AiOutlineInstagram,
-  CiFacebook,
-} from "react-icons/all";
+// import {
+//   AiFillLinkedin,
+//   AiFillTwitterCircle,
+//   AiOutlineInstagram,
+//   CiFacebook,
+// } from "react-icons/all";
 
 const Footer = () => {
   return (
@@ -115,10 +115,10 @@ const Footer = () => {
         </div>
         <div className="col-sm ">
           <div>
-            <AiFillTwitterCircle />
+            {/* <AiFillTwitterCircle />
             <AiOutlineInstagram />
             <CiFacebook />
-            <AiFillLinkedin />
+            <AiFillLinkedin /> */}
           </div>
         </div>
       </div>
