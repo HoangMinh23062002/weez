@@ -8,7 +8,7 @@ section.Contactpage__Container {
   height: 948px;
   display: flex;
   padding: 22px 0;
-  background-color: ;
+  /* background-color: ; */
 }
 h4.contact__banner-title {
   text-align: center;
