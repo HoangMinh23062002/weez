@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Homepage from '../src/components/pages/homepage.jsx';
-import AboutUsPage from './components/pages/AboutUsPage';
+// import AboutUsPage from './components/pages/AboutUsPage';
 import reportWebVitals from './reportWebVitals';
 // import App from './App';
 // import Contact from './components/pages/contactpage';

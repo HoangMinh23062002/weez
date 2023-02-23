@@ -2,12 +2,12 @@ import React from "react";
 import AboutUsPage from "../containers/aboutuspage/Aboutuspage";
 import Footer from "./Footer";
 import Header from "./Header";
-export default function aboutuspage() {
+export default function AboutPage() {
   return (
     <div className="">
-    <Header></Header>
+  <Header/>
       <AboutUsPage />
-      <Footer />
+      <Footer/>
     </div>
   );
 }

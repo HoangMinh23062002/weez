@@ -1,6 +1,7 @@
 import Homepage from "../components/pages/homepage";
 import Contactpage from "../components/pages/contactpage";
-import AboutUsPage from "../components/containers/aboutuspage/Aboutuspage";
+import AboutPage from "../components/pages/AboutPage";
+
 import Blogspage from "../components/pages/blogspage";
 const publicRoutes = [
   {
@@ -17,7 +18,7 @@ const publicRoutes = [
   },
   {
     path: "/about",
-    component: AboutUsPage,
+    component: AboutPage,
   },
 ];
 

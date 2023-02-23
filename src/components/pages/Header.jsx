@@ -23,8 +23,8 @@ const Header = () => {
       <div className="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active">
-            <a className="nav-link" href="#">
-            <Link to={'/'}  className="button -underline text-white" href="#">Home</Link>
+            <a className="nav-link " href="#">
+            <Link to={'/'}  className="button -underline text-white butn-home" href="#">Home</Link>
             </a>
           </li>
           <li className="nav-item active">
