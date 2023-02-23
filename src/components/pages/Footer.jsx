@@ -2,13 +2,6 @@ import React from "react";
 import "../../styles/components/__index.css";
 import { logofooter } from "../../assets/index";
 
-// import {
-//   AiFillLinkedin,
-//   AiFillTwitterCircle,
-//   AiOutlineInstagram,
-//   CiFacebook,
-// } from "react-icons/all";
-
 const Footer = () => {
   return (
     <div>
@@ -114,12 +107,6 @@ const Footer = () => {
           <img className="imageLogoFooter" src={logofooter} alt="" />
         </div>
         <div className="col-sm ">
-          <div>
-            {/* <AiFillTwitterCircle />
-            <AiOutlineInstagram />
-            <CiFacebook />
-            <AiFillLinkedin /> */}
-          </div>
         </div>
       </div>
     </div>

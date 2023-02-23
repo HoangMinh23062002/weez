@@ -4,7 +4,7 @@ section.Contactpage__Container {
   transition: opacity 0.25s ease-in-out;
   -moz-transition: opacity 0.25s ease-in-out;
   -webkit-transition: opacity 0.25s ease-in-out;
-  width: 1540px;
+  width: 100%;
   height: 948px;
   display: flex;
   padding: 22px 0;
