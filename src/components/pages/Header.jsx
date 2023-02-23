@@ -1,6 +1,7 @@
 import React from "react";
 import "../../styles/components/__index.css";
 import { logo } from "../../assets/index";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -23,23 +24,18 @@ const Header = () => {
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active">
             <a className="nav-link" href="#">
-              Home <span className="sr-only">(current)</span>
+            <Link to={'/'}  className="button -underline text-white" href="#">Home</Link>
             </a>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="#">
-              Blogs <span className="sr-only"></span>
-            </a>
+          <Link to={'/blog'}  className="button -underline text-white" href="#">Blogs</Link>
+           
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="#">
-              About Us <span className="sr-only"></span>
-            </a>
+          <Link to={'/about'}  className="button -underline text-white" href="#">About us</Link>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" href="#">
-              Contact <span className="sr-only"></span>
-            </a>
+          <Link to={'/contact'}  className="button -underline text-white" href="#">Contact</Link>
           </li>
         </ul>
         <form className="form-inline my-2 my-lg-0">
