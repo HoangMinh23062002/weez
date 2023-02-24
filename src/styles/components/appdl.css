@@ -1,12 +1,13 @@
 .homePage-dl-imageba img {
   width: 100%;
-  position: relative;
-  z-index: -21;
+  /* position: relative; */
+  /* z-index: -21; */
 }
 .homePage-dl {
+  z-index: 1;
 }
 .homePage-dl-imageba {
-  position: relative;
+  /* position: relative; */
 }
 .title-dl {
   /* position: absolute; */
@@ -33,7 +34,7 @@
   line-height: 26px;
 }
 .image-app img {
-  width: 602px;
+  width: 340px;
 }
 .get-content {
   display: flex;
