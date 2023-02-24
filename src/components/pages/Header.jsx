@@ -24,7 +24,7 @@ const Header = () => {
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active">
             <a className="nav-link " href="#">
-            <Link to={'/'}  className="button -underline text-white butn-home" href="#">Home</Link>
+            <Link to={'/'}  className="button -underline text-white goHome" href="#">Home</Link>
             </a>
           </li>
           <li className="nav-item active">
