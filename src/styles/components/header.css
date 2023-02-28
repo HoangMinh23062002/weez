@@ -52,3 +52,10 @@ a:hover {
 .navbar-nav{
     column-gap: 25px;
 }
+@media (min-width: 576px){
+.my-sm-0{
+    margin-top: 0!important;
+    /* background-color: red; */
+    margin-bottom: 10px!important;
+}
+}
