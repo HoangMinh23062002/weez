@@ -95,6 +95,7 @@ const Footer = () => {
                 Subscribe
               </button>
             </form>
+            <div>chucuoi@gmail.com <br></br>(+84)03333333333</div>
           </div>
         </div>
       </div>

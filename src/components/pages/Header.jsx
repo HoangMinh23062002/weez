@@ -34,9 +34,9 @@ const Header = () => {
           <li className="nav-item active">
           <Link to={'/about'}  className="button -underline text-white" href="#">About us</Link>
           </li>
-          <li className="nav-item active">
+          {/* <li className="nav-item active">
           <Link to={'/contact'}  className="button -underline text-white" href="#">Contact</Link>
-          </li>
+          </li> */}
         </ul>
         <form className="form-inline my-2 my-lg-0">
           <input
